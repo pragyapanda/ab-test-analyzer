@@ -1,0 +1,4 @@
+user_id,signup_date,signup_method
+1,2023-01-01,email
+2,2023-01-03,social
+3,2023-01-04,email
